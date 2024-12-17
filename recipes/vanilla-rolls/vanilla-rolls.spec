@@ -20,13 +20,14 @@ Name:           vanilla-rolls
 Version:        2.0
 Release:        2024
 Summary:	Traditional Christmas sweet
-License:        KPC  # Kuchařka pro dceru
+License:        KPD AND HowWeDoIt  # Kuchařka pro dceru
 URL:            https://www.kucharkaprodceru.cz/vanilkove-rohlicky/
-Source:         -
-BuildRequires:  flour
-BuildRequires:  butter
-BuildRequires:  powdered-sugar
-BuildRequires:  ground-nuts  # provided by ground-hazelnuts, ground-almonds, etc
+Source:         vanilla-rolls.jpg
+BuildRequires:  flour = 4 * $spoon
+BuildRequires:  butter = 50 g
+BuildRequires:  powdered-sugar = $spoon
+BuildRequires:  ground-nuts = 2 * $spoon  # provided by ground-hazelnuts, ground-almonds, etc.
+BuildRequires:  liquid = $spoon  # provided by water, rum, egg-yolk, etc.
 Suggests:       shaping-form[croissant]
 Requires(post): powdered-sugar
 Requires(post): vanilla-sugar
@@ -39,7 +40,7 @@ Delicate Christmas pastries, combining the aromas of sugar, butter, nuts, and lo
 mkdir bowl
 
 %build
-mv powdered-sugar flour butter ground-nuts bowl/
+mv powdered-sugar flour butter ground-nuts liquid bowl/
 %mix bowl/* > dough
 sleep $overnight
 
