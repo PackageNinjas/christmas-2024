@@ -31,10 +31,12 @@ BuildRequires:  hazelnuts >= 70g
 BuildRequires:  milk >= 3-tbsp
 BuildRequires:  powdered-sugar >= 150g
 BuildRequires:  rum >= 50ml
-# It's "piskoty" in Czech
-BuildRequires:  sponge-biscuits >= 160g
+# These are called "piškoty" or "dětské piškoty" in Czech. They are round sponge biscuits,
+# similar to soft vanilla wafers or small baby sponge biscuits commonly used in Central European desserts.
+# Think of them as a smaller, round version of ladyfingers.
+BuildRequires:  round-sponge-biscuits >= 160g
 Requires:       hive-mold
-Requires:       sponge-biscuits
+Requires:       round-sponge-biscuits
 
 %description
 Beehives (Vosí hnízda) are an iconic Czech no-bake Christmas treat.
