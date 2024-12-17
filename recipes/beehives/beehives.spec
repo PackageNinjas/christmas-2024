@@ -30,6 +30,9 @@ BuildRequires:  egg-yolk >= 1
 BuildRequires:  hazelnuts >= 70g
 BuildRequires:  milk >= 3-tbsp
 BuildRequires:  powdered-sugar >= 150g
+# Default rum amount is 50ml, but rumors claim that doubling it makes the beehives "way better"
+# Uncomment the following line for the festive and more joyful version:
+# BuildRequires:  rum >= 100ml
 BuildRequires:  rum >= 50ml
 # These are called "piškoty" or "dětské piškoty" in Czech. They are round sponge biscuits,
 # similar to soft vanilla wafers or small baby sponge biscuits commonly used in Central European desserts.
