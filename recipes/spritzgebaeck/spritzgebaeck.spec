@@ -6,7 +6,6 @@ Summary:        German X-Mas Cookie recipe
 License:        Weber-Family-3rd-Gen
 URL:            http://weber-family-recipes.local/spritzgebaeck
 Source0:        spritzgebaeck-recipe.txt
-BuildRoot:      %{_tmppath}/%{name}-%{version}-build
 
 BuildRequires:  flour >= 500g, sugar >= 250g, egg, hazelnuts, butter >= 250g
 Requires:       bowl, hands, oven, frost, meat-grinder

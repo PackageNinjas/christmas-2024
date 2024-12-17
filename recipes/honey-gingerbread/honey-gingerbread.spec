@@ -19,7 +19,6 @@ Summary:        Traditional Czech Honey Gingerbread Recipe
 License:        NWL
 URL:            https://www.levneknihy.cz
 Source0:        honey-gingerbread-recipe.jpg
-BuildRoot:      %{_tmppath}/%{name}-%{version}-build
 
 BuildRequires:  flour >= 500g, sugar >= 150g, honey >= 100g, butter >= 50g, eggs >= 2
 Requires:       bowl, refrigerator, rolling-pin, cookie-cutters, oven
