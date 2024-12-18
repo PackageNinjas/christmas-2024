@@ -31,7 +31,7 @@ and don't forget to have a lot of fun
 <p>
 </p>
 
-## [vanilla-rolls](recipes/vanilla-rolls/vanilla-rolls.spec): Traditional Christmas sweet
+## [vanilla-rolls](recipes/vanilla-rolls/vanilla-rolls.spec): Traditional Christmas sweet coated in vanilla sugar
 <p>
 <img src="recipes/vanilla-rolls/vanilla-rolls.jpg" width=200/>
 </p>
@@ -42,7 +42,7 @@ and don't forget to have a lot of fun
 <img src="recipes/christmas-log/christmas-log.jpg" width=200/>
 </p>
 
-## [hedgehogs](recipes/hedgehogs/hedgehogs.spec): Christmas sweet treat
+## [hedgehogs](recipes/hedgehogs/hedgehogs.spec): Christmas sweet treat for (adult) kids
 <p>
 <img src="recipes/hedgehogs/hedgehogs.jpg" width=200/>
 </p>

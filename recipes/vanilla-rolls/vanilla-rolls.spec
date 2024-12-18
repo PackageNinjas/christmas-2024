@@ -19,7 +19,7 @@
 Name:           vanilla-rolls
 Version:        2.0
 Release:        2024
-Summary:	Traditional Christmas sweet
+Summary:	Traditional Christmas sweet coated in vanilla sugar
 License:        KPD AND HowWeDoIt  # Kuchařka pro dceru
 URL:            https://www.kucharkaprodceru.cz/vanilkove-rohlicky/
 Source:         vanilla-rolls.jpg
