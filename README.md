@@ -9,3 +9,62 @@ We hope you enjoy these treats as much as we do. Whether you're baking them for 
 Happy holidays from the SUSE Packaging Team
 and don't forget to have a lot of fun
 
+# Recipes
+## [beehives](recipes/beehives/beehives.spec): No-Bake Czech Christmas Beehives
+<p>
+</p>
+
+## [cookies-jam](recipes/cookies-jam/cookies-jam.spec): Favourite christmas cookies in my family
+<p>
+<img src="recipes/cookies-jam/cookies_bottom.jpg" width=200/>
+<img src="recipes/cookies-jam/cookies_done_1.jpg" width=200/>
+<img src="recipes/cookies-jam/cookies_done_2.jpg" width=200/>
+<img src="recipes/cookies-jam/cookies_top.jpg" width=200/>
+</p>
+
+## [grandpa-cookies](recipes/grandpa-cookies/grandpa-cookies.spec): cookies a bit like gingerbread
+<p>
+<img src="recipes/grandpa-cookies/cookies_result.jpg" width=200/>
+</p>
+
+## [linzer-stars](recipes/linzer-stars/linzer-stars.spec): Traditional Czech Linzer Cookies for Christmas
+<p>
+</p>
+
+## [vanilla-rolls](recipes/vanilla-rolls/vanilla-rolls.spec): Traditional Christmas sweet
+<p>
+<img src="recipes/vanilla-rolls/vanilla-rolls.jpg" width=200/>
+</p>
+
+## [christmas-log](recipes/christmas-log/christmas-log.spec): Traditional French Christmas cake
+<p>
+<img src="recipes/christmas-log/very-long-christmas-log.jpg" width=200/>
+<img src="recipes/christmas-log/christmas-log.jpg" width=200/>
+</p>
+
+## [hedgehogs](recipes/hedgehogs/hedgehogs.spec): Christmas sweet treat
+<p>
+<img src="recipes/hedgehogs/hedgehogs.jpg" width=200/>
+</p>
+
+## [honey-gingerbread](recipes/honey-gingerbread/honey-gingerbread.spec): Traditional Czech Honey Gingerbread Recipe
+<p>
+<img src="recipes/honey-gingerbread/honey-gingerbread.png" width=200/>
+</p>
+
+## [levander-cookies](recipes/levander-cookies/levander-cookies.spec): Levander Biscuit (Baked)
+<p>
+</p>
+
+## [spritzgebaeck](recipes/spritzgebaeck/spritzgebaeck.spec): German X-Mas Cookie recipe
+<p>
+<img src="recipes/spritzgebaeck/Grinder.jpg" width=200/>
+<img src="recipes/spritzgebaeck/cookies.jpg" width=200/>
+<img src="recipes/spritzgebaeck/cookies_w_choc.jpg" width=200/>
+<img src="recipes/spritzgebaeck/grinder.png" width=200/>
+</p>
+
+## [vanocka](recipes/vanocka/vanocka.spec): Traditional Czech Christmas Bread
+<p>
+</p>
+
