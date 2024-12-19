@@ -20,15 +20,15 @@ Name:           hedgehogs
 Version:        2.0
 Release:        0
 Summary:        Christmas sweet treat for (adult) kids
-License:        TopRecepty AND HowWeDoIt
-URL:            https://www.toprecepty.cz/recept/31887-vanocni-cukrovi-orechovi-jezci/
+License:        VareniCZ AND HowWeDoIt
+URL:            https://www.vareni.cz/recepty/vanocni-jezci/
 Source:         hedgehogs.jpg
 BuildRequires:  flour = 350 g
-BuildRequires:  butter-like = 200 g  # provided by: butter, margarin, lard, etc.
+BuildRequires:  butter-like = 300 g  # provided by: butter, margarin, lard, etc.
 BuildRequires:  sugar = 50 g
-BuildRequires:  egg-yolk = 1
+BuildRequires:  egg = 1
 BuildRequires:  chocolate >= 80 g
-Requires(post): chocolate >= 100 g
+Requires(post): chocolate >= 50 g
 Requires(post): fat  # provided by: butter, margarin, oil, coconut oil, etc.
 Requires(post): ground-coconut
 Requires(post): skewer
@@ -41,7 +41,7 @@ Cookies are among the sweetest Christmas traditions. Baking and decorating them 
 mkdir bowl
 
 %build
-mv flour butter-like sugar egg-yolk bowl/
+mv flour butter-like sugar egg bowl/
 %mix bowl/* > dough
 sleep $overnight
 
